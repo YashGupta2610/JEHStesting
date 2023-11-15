@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>746086228065-a9q6s8jnq7tbm04jt9kjpfhlg1qr94a9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.746086228065-a9q6s8jnq7tbm04jt9kjpfhlg1qr94a9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5VHJCdynti1MD3sbR_jVsyalhmnTQae0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>746086228065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ibottic.jehsNew</string>
+	<key>PROJECT_ID</key>
+	<string>schoolbotjehs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schoolbotjehs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:746086228065:ios:a725e7eabccf1217e4ca20</string>
+</dict>
+</plist>

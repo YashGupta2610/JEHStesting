@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "746086228065",
+    "project_id": "schoolbotjehs",
+    "storage_bucket": "schoolbotjehs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746086228065:android:6f5d9cef0baa36e8e4ca20",
+        "android_client_info": {
+          "package_name": "com.ibottic.jehs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746086228065-429886p31q6povcivjtmhv4r6t6lb58g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOVRsRQQtnVUP1gs2R2YYFIRKFlIFDpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746086228065-429886p31q6povcivjtmhv4r6t6lb58g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746086228065-a9q6s8jnq7tbm04jt9kjpfhlg1qr94a9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibottic.jehsNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
